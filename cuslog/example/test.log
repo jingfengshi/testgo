@@ -1,0 +1,3 @@
+{"level":"INFO","time":"2022-06-28T11:01:39+08:00","file":"C:/Users/Administrator/Code/testgo/cuslog/example/example.go:29","func":"main.main","message":"custom log with json formatter"}
+2022-06-28T11:11:46+08:00 INFO example.go:29 custom log with json formatter
+{"time":"2022-08-09T16:35:32+08:00","file":"C:/Users/Administrator/Code/testgo/cuslog/example/example.go:29","func":"main.main","message":"custom log with json formatter","level":"INFO"}
